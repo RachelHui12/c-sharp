@@ -1,0 +1,9 @@
+D:\coding\c#\数字华容道\数字华容道\obj\Debug\数字华容道.csprojAssemblyReference.cache
+D:\coding\c#\数字华容道\数字华容道\obj\Debug\数字华容道.Form1.resources
+D:\coding\c#\数字华容道\数字华容道\obj\Debug\数字华容道.Properties.Resources.resources
+D:\coding\c#\数字华容道\数字华容道\obj\Debug\数字华容道.csproj.GenerateResource.cache
+D:\coding\c#\数字华容道\数字华容道\bin\Debug\数字华容道.exe.config
+D:\coding\c#\数字华容道\数字华容道\bin\Debug\数字华容道.exe
+D:\coding\c#\数字华容道\数字华容道\bin\Debug\数字华容道.pdb
+D:\coding\c#\数字华容道\数字华容道\obj\Debug\数字华容道.exe
+D:\coding\c#\数字华容道\数字华容道\obj\Debug\数字华容道.pdb
